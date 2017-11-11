@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927502995394",
+    "firebase_url": "https://shoaib-767c8.firebaseio.com",
+    "project_id": "shoaib-767c8",
+    "storage_bucket": "shoaib-767c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927502995394:android:3ea27f4e562333c2",
+        "android_client_info": {
+          "package_name": "com.w_4248085"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927502995394-09b080fo9t9rgi94a6c8hu7a8fho8q6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMosrHapViGg0XXakuQ7T_HiGiaI7hU9k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
